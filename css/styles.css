@@ -1,0 +1,26 @@
+h1 {
+color: red;
+font-size: 200px;
+}
+img:hover{
+   background-color: rgb(255, 187, 0);
+}
+.bacon {
+   /* transform: rotate(67deg); */
+    background-color: blue;
+}
+.moodeng {
+   /* transform: rotate(67deg); */
+    background-color: rgb(255, 0, 157);
+}
+.broccoli {
+   /* transform: rotate(67deg); */
+    background-color: rgb(0, 255, 98);
+}
+#heading{
+    color: aquamarine;
+}
+.circular {
+
+  border-radius: 100%;
+}
